@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 read -p "Please input the first number:" first
 read -p "Please input the second number:" second
